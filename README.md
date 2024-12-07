@@ -1,0 +1,1 @@
+# WA Exercicio 2 do lab 02 de CI/CD
